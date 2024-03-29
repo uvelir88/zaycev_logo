@@ -1,0 +1,33 @@
+@import url("reset.css");
+
+.main {
+	padding-top: 80px;
+}
+
+.block_list {
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.image {
+	display: block;
+	margin: 0 auto;
+	max-width: 350px;
+	margin-bottom: 50px;
+}
+
+.list {
+	display: inline-block;
+}
+
+.button {
+	background-color: black;
+	width: 350px;
+	height: 45px;
+	padding: 10px 30px 10px 30px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: white;
+	border-radius: 8px;
+}
